@@ -12,4 +12,5 @@ Try to understand and commit to memory the structure and functions of the syntax
 6. Argument - What the method called should operate using
 7. The variable being accessed in the Update method is a type name, not the name of an actual variable.
 8. It should be _playerTransform.
-   
+### Activity 3 
+[Group Document](https://docs.google.com/document/d/1KhRQZLNVzs5TZGDPKFDH77RtlX_e1vGLo3YVHySjxfM/edit?tab=t.0)

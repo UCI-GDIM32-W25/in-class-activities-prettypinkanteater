@@ -1,13 +1,7 @@
-# GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+# GDIM32 In-Class Activities
 
 
-Hit enter TWICE to create a new line.
-
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
+## Week 1
+#### Activity 1
+Try to understand and commit to memory the structure and functions of the syntax by describing it to yourself, to others, etc. and ask others for help whenever needed. 
+:3

@@ -13,4 +13,8 @@ Try to understand and commit to memory the structure and functions of the syntax
 7. The variable being accessed in the Update method is a type name, not the name of an actual variable.
 8. It should be _playerTransform.
 ### Activity 3 
+## W2
+### Activity 1
 [Group Document](https://docs.google.com/document/d/1KhRQZLNVzs5TZGDPKFDH77RtlX_e1vGLo3YVHySjxfM/edit?tab=t.0)
+### Activity 2 
+[Github Commit](https://github.com/UCI-GDIM32-W25/mg2-prettypinkanteater/commit/82b8d83696f4a307705036e8a1b0d6098ba6b016)

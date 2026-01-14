@@ -14,3 +14,6 @@ Try to understand and commit to memory the structure and functions of the syntax
 8. It should be _playerTransform.
 ### Activity 3 
 [Group Document](https://docs.google.com/document/d/1KhRQZLNVzs5TZGDPKFDH77RtlX_e1vGLo3YVHySjxfM/edit?tab=t.0)
+## W2
+### Activity 1 
+<img width="772" height="618" alt="image" src="https://github.com/user-attachments/assets/1bf9195d-a2f3-4243-85b9-91e235a87fa0" />

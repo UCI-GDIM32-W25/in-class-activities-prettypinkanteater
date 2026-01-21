@@ -23,3 +23,6 @@ Try to understand and commit to memory the structure and functions of the syntax
 [Github Commit](https://github.com/UCI-GDIM32-W25/mg2-prettypinkanteater/commit/82b8d83696f4a307705036e8a1b0d6098ba6b016)
 Worked on canvas, player jump, and started a little of the GameController script.
 
+## W3
+### Activity 1
+Partner name: Nicole Yang

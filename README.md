@@ -24,5 +24,8 @@ Try to understand and commit to memory the structure and functions of the syntax
 Worked on canvas, player jump, and started a little of the GameController script.
 
 ## W3
-### Activity 1
+### Activity 1-2
 Partner name: Nicole Yang
+
+### Activity 3
+<img width="786" height="652" alt="image" src="https://github.com/user-attachments/assets/4c14b6b2-0048-4b96-bc32-1e0853b9dd3d" />

@@ -40,3 +40,6 @@ Game objects containing the locator component all have it removed except for one
 ### Activity 2
 <img width="794" height="1030" alt="image" src="https://github.com/user-attachments/assets/46a669c1-4651-4adc-8179-f3882fb45b27" />
 
+### Activity 3
+I had to commit earlier than class end because my laptop is going to die :(
+[Github Commit](https://github.com/prettypinkanteater/HW4/commit/f2a0cef22ee0c763b279bdd0c4216775e1250119)

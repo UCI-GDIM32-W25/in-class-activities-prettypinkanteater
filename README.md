@@ -38,3 +38,5 @@ Partner name: Nolan and Brendan
 Game objects containing the locator component all have it removed except for one. This is because the code checks for other instances of the Locator class that are not itself when it is initialized. If they exist, they are destroyed.
 
 ### Activity 2
+<img width="794" height="1030" alt="image" src="https://github.com/user-attachments/assets/46a669c1-4651-4adc-8179-f3882fb45b27" />
+

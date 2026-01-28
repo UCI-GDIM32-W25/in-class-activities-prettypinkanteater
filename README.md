@@ -29,3 +29,12 @@ Partner name: Nicole Yang
 
 ### Activity 3
 <img width="786" height="652" alt="image" src="https://github.com/user-attachments/assets/4c14b6b2-0048-4b96-bc32-1e0853b9dd3d" />
+
+## W2
+### Activity 0
+Partner name: Nolan and Brendan 
+
+### Activity 1
+Game objects containing the locator component all have it removed except for one. This is because the code checks for other instances of the Locator class that are not itself when it is initialized. If they exist, they are destroyed.
+
+### Activity 2

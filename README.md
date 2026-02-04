@@ -43,3 +43,32 @@ Game objects containing the locator component all have it removed except for one
 ### Activity 3
 I had to commit earlier than class end because my laptop is going to die :(
 [Github Commit](https://github.com/prettypinkanteater/HW4/commit/f2a0cef22ee0c763b279bdd0c4216775e1250119)
+
+## W5
+### Activity 1
+I think the design of these interface and abstract classes is decent but I am not sure I would use an abstract class for the Use() method for items. The bodies of the method in the child classes are relatively similar with the use of Debug.Log.
+I would likely just make the Use() method a virtual one in a normal class so that it can be overwritten in child classes when things like damage are to be added.
+
+### Activity 2 
+Model Classes: Enemy Stats and ItemW5
+
+View Classes: Dialogue Bubble and Inventory UI
+
+Controller Classes: EnemyW5 and PlayerW5
+
+### Activity 3
+#### Scenario 1:
+Beats would be represented by prefabs that would have scriptable object containing the data like beat type, time, etc?
+
+#### Scenario 2
+The design patterns that would apply best to the situation would be inheritence with polymorphism and FSMs. This is because the characters have shared animations that would be best stored as states. They also have shared attributes like health
+and attack. The character attacks can be overwritten in the child classes for unique distinctions between them. In terms of the different moves of movement/different attacks I think an abstract class would be best because there can be shared base methods and uniquely implemented methods.
+Gameplay model manages doing damage.
+
+#### Scenario 3:
+State machines for player actionrs or animations.
+
+### Activity 4
+Attendance: Nolan Lovret Burns, Audrey Hu, Brendan William Johnston
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0#heading=h.z11tcjvn40dh)

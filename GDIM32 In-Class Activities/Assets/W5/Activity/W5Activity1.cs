@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/*
+
 
 public class W5Activity1 : MonoBehaviour
 {
@@ -34,12 +34,12 @@ public class W5Activity1 : MonoBehaviour
 //
 // Expected output:
 
-// lighting area with torch
-// torch now has 0 durability remaining
-// torch is broken!
-// attacking with Elven sword
-// attacking with axe
-// axe now has 4 durability remaining
+// lighting area with torch: yes
+// torch now has 0 durability remaining: yes
+// torch is broken!: yes
+// attacking with Elven sword: yes
+// attacking with axe: yes
+// axe now has 4 durability remaining: yes
 
 public interface IBreakable {
 	void Damage(float damage);
@@ -47,13 +47,23 @@ public interface IBreakable {
 }
 
 public abstract class Item {
+
+	protected float _durability;
 	public abstract void Use();
 }
 
 public class Axe : Item, IBreakable {
-	private float _durability = 5.0f;
-	
+
+	public void Start()
+	{
+		
+	}
+	public void Break()
+	{
+		
+	}
 	public void Damage (float damage) {
+		_durability = 5;
 		_durability -= damage;
 		Debug.Log("axe now has " + _durability + " durability remaining");
 		
@@ -69,14 +79,20 @@ public class Axe : Item, IBreakable {
 }
 
 public class ElvenSword : Item {
-	public void Use () {
+	public override void Use () {
 		Debug.Log("attacking with Elven sword");
 	}
 }
 
 public class Torch : Item, IBreakable {
-	
+
+
+	public void Break()
+	{
+		Debug.Log("Torch is broken!");
+	}
 	public void Damage (float damage) {
+		_durability = 1;
 		_durability -= damage;
 		Debug.Log("torch now has " + _durability + " durability remaining");
 		
@@ -89,10 +105,9 @@ public class Torch : Item, IBreakable {
 		Debug.Log("torch is broken!");
 	}
 	
-	protected override void Use () {
+	public override void Use () {
 		Debug.Log("lighting area with torch");
 		Damage(1.0f);
 	}
 }
 
-*/

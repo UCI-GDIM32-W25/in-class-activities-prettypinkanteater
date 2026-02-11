@@ -72,3 +72,28 @@ State machines for player actionrs or animations.
 Attendance: Nolan Lovret Burns, Audrey Hu, Brendan William Johnston
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0#heading=h.z11tcjvn40dh)
+
+## W6
+### Activity 1
+
+#### Performance Profiling
+
+- Performance profiling can be viewed in Unity to show how long it is taking for methods to be called
+- This would be helpful in my final project if we experience lag and want to determine the source
+
+#### Gizmos
+
+- Gizmos can be used to draw an object's collider to better visualize it
+- If you implement the method in a class that is not for a specific game object, you can attach the class/script to multiple objects as long as they have the same type of collider
+- This might be helpful in my final project for showing velocity to track player movement
+
+#### Breakpoints
+Thank you Professor Reid. 
+- Show chain of events up until the method we are examining in call stack
+- This is helpful for general debugging to check if methods we have written are actually being called or not in our final project
+
+
+### Activity 2 
+Attendance: Audrey Hu, Nolan Burns, Brendan Johnston
+
+Final Proposal: [Final Project Final Proposal](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)

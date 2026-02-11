@@ -76,6 +76,11 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 ## W6
 ### Activity 1
 
+#### Merge
+
+- I already took notes on my own time and did not realize we needed to for this weeks in-class activity so nothing new for this catagory.
+- Helpful for my project if my partners and I accidentally edit the same lines 
+
 #### Performance Profiling
 
 - Performance profiling can be viewed in Unity to show how long it is taking for methods to be called
@@ -85,12 +90,12 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 
 - Gizmos can be used to draw an object's collider to better visualize it
 - If you implement the method in a class that is not for a specific game object, you can attach the class/script to multiple objects as long as they have the same type of collider
-- This might be helpful in my final project for showing velocity to track player movement
+- This might be helpful in my final project for showing velocity to track player movement in the scene
 
 #### Breakpoints
 Thank you Professor Reid. 
 - Show chain of events up until the method we are examining in call stack
-- This is helpful for general debugging to check if methods we have written are actually being called or not in our final project
+- This is helpful for general debugging to check if methods we have written are actually being called or not in our final project and also the timeline of methods as well as events called/invoked to ensure that the logic runs sequentially accurate in quests and when players take actions
 
 
 ### Activity 2 

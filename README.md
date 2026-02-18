@@ -102,3 +102,19 @@ Thank you Professor Reid.
 Attendance: Audrey Hu, Nolan Burns, Brendan Johnston
 
 Final Proposal: [Final Project Final Proposal](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
+
+## W7
+### Activity 1
+- Raycasting works well with NPC state machines because the criteria for changing states is based on NPC line of sight and if the player is in it, which can be tracked by Raycast arrows!
+- Sphere casting can be used to read obstacle volume
+- Save vectors as member variables for use with Gizmos
+- Hitinfo is a variable containing which GameObject is hit
+- Raycast hit returns a boolean based on if something is hit or not
+
+### Activity 2
+Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
+
+### Activity 3
+Mental breakdown
+
+### Activity 4

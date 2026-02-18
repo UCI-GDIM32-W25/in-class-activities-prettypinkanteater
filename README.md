@@ -115,6 +115,7 @@ Final Proposal: [Final Project Final Proposal](https://docs.google.com/document/
 Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
 
 ### Activity 3
-Mental breakdown
+<img width="1938" height="1006" alt="image" src="https://github.com/user-attachments/assets/98438422-0094-4ed1-9062-77540fc8a1e3" />
+
 
 ### Activity 4

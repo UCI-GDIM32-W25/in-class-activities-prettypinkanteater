@@ -122,4 +122,6 @@ Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
 [Trello](https://trello.com/invite/b/6995221d29a759665cbca1a0/ATTI3f505597092d3b79f0dfa0bab1504bbb292A9F57/gdim-32-final)
 
 ### Activity 5
-[Git Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/e8b67b4cc3c49fcaba48103c76124e2d6611fc3c)
+[Git Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/e8b67b4cc3c49fcaba48103c76124e2d6611fc3c)\
+
+I sourced the sizzling sound effect and made a new script for controlling audio. I also setup things in Unity (assets folders) for organizing our work.

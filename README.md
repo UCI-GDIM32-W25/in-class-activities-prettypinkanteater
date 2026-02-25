@@ -157,6 +157,11 @@ Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
 ### Activity 4
 Fixing knife direction when picked up.
 
+### Activity 5
+[Git Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/60ac0b38123b415f0ee436d8d28d0cf32033ead7#diff-100a9f54f7867e743521c49a355002ada8aee0177e74900ffe5a8610d03f70a8)
+
+My laptop was low battery so Brenden and I pair programmed and figured out a solution that I will work on this week outside of class.
+
 
 
 

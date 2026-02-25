@@ -139,6 +139,16 @@ I sourced the sizzling sound effect and made a new script for controlling audio.
 - shaders that affect look of entire screen, can make game slow
 - runs after rendering pipeline draws things in frame on screen (post)
 - make game object and add post processing components!
+- some effects may not be compatible with build type, test to determine
+
+### Activity 2
+Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
+
+### Activity 3
+Buddy Team:
+
+
+
 
 
 

@@ -145,7 +145,17 @@ I sourced the sizzling sound effect and made a new script for controlling audio.
 Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
 
 ### Activity 3
-Buddy Team:
+- slow movement
+- Finish rest of the quest
+- Colliders seem fine
+- Bug with climbing on manager
+- Likes animations
+- Smooth  movement
+- Knife phasing through things
+- Fix outside, take away walls
+
+### Activity 4
+Fixing knife direction when picked up.
 
 
 

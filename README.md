@@ -200,7 +200,8 @@ the remaining workload is quests and dialogue that will communicate with the ite
 booleans.
 
 ### Activity 5
-https://github.com/prettypinkanteater/GDIM32-Final/commit/7f1f77f1407d33cc71297456d46c7f25c5ed2324
+[Git Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/7f1f77f1407d33cc71297456d46c7f25c5ed2324)
+
 I edited the collider of the cutting board prefab to address an issue where if you looked away too quickly while putting down the potato item, it would not go in the correct position.
 
 

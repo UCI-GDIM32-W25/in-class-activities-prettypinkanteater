@@ -162,6 +162,20 @@ Fixing knife direction when picked up.
 
 My laptop was low battery so Brenden and I pair programmed and figured out a solution that I will work on this week outside of class.
 
+## W6
+Scaling Well = easy for other users, programmers/content creators, to add data
+
+Code architecture scaling well is crucial for building any game
+
+Scaling is also a valuable skill for future employers
+
+Scaling relates to the programming design patterns we learned because they contribute to architecture that scales well. (e.g. decoupling w/ singleton makes code more easily changable for data expansion,
+state machines contribute to good scaling systems)
+
+Branching dialogue should not be infinitely loopable, will lead to end dialogue node
+
+If you have multiple talking NPCS would need invidiual dialogue controller class that would keep track of which npc is talking by setting active dialogue node to node that is talking
+	- use method to change so that it can be called by other classes....
 
 
 

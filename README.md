@@ -195,8 +195,13 @@ Counter collider could be slightly larger
 You can fit between the machines
 
 ### Activity 4
+I think we are 50% in our project process because we have the base interactibality scripts and
+the remaining workload is quests and dialogue that will communicate with the item scripts via events and controller
+booleans.
 
-
+### Activity 5
+https://github.com/prettypinkanteater/GDIM32-Final/commit/7f1f77f1407d33cc71297456d46c7f25c5ed2324
+I edited the collider of the cutting board prefab to address an issue where if you looked away too quickly while putting down the potato item, it would not go in the correct position.
 
 
 

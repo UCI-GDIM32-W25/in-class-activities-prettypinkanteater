@@ -163,6 +163,7 @@ Fixing knife direction when picked up.
 My laptop was low battery so Brenden and I pair programmed and figured out a solution that I will work on this week outside of class.
 
 ## W6
+### Activity 1
 Scaling Well = easy for other users, programmers/content creators, to add data
 
 Code architecture scaling well is crucial for building any game
@@ -176,6 +177,25 @@ Branching dialogue should not be infinitely loopable, will lead to end dialogue 
 
 If you have multiple talking NPCS would need invidiual dialogue controller class that would keep track of which npc is talking by setting active dialogue node to node that is talking
 	- use method to change so that it can be called by other classes....
+
+### Activity 2
+Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
+
+### Activity 3
+#### Goals: 
+Does the manager have acceptable colliders 
+Is the sensitivity and movement good
+
+#### Feedback:
+UI looks good!!!
+A little unclear to get the potato first
+Mouse sensitivity still high
+Controls are smooth
+Counter collider could be slightly larger
+You can fit between the machines
+
+### Activity 4
+
 
 
 

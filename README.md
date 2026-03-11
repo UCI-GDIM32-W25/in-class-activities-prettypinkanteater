@@ -204,6 +204,28 @@ booleans.
 
 I edited the collider of the cutting board prefab to address an issue where if you looked away too quickly while putting down the potato item, it would not go in the correct position.
 
+## W7
+### Activity 1
+Attendance: Brendan Johnston, Nolan Burns, Audrey Hu :3
+
+### Activity 2 
+#### Goal
+To test the functionality of our implementation of quest progress tracking.
+
+#### Notes
+- make e to advance dialogue more evident 
+- give npcs name tags
+- fix sphere cast for timmy’s tray 
+- give more info for fry quest even in marriage insults
+- prevent player from going into window
+- smooth transition between object models
+
+### Activity 3
+We are on schedule because we are halfway through the project, one quest is nearly completely done and the second will use relatively the same logic so our scope seems feasible.
+
+### Activity 4
+
+
 
 
 

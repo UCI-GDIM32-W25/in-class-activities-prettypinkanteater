@@ -224,7 +224,9 @@ To test the functionality of our implementation of quest progress tracking.
 We are on schedule because we are halfway through the project, one quest is nearly completely done and the second will use relatively the same logic so our scope seems feasible.
 
 ### Activity 4
+[Git Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/825dd8483b4855ff7e2ad3e40f765e001920fd24)
 
+I added a nametag for Timmy so that the quest goals are clearer.
 
 
 
